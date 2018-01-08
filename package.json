@@ -1,5 +1,5 @@
 {
-  "name": "search-index",
+  "name": "search-index-mobile",
   "description": "A persistent full text search engine for the browser and Node.js",
   "version": "0.15.0",
   "homepage": "https://github.com/fergiemcdowall/search-index",
